@@ -1,3 +1,5 @@
+package-lock.json
+
 # Logs
 logs
 *.log
@@ -44,4 +46,3 @@ __screenshots__/
 .env.*.local
 .env.development
 .env.production
-.package-lock.json
