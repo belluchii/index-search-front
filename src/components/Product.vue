@@ -45,6 +45,7 @@ defineProps({
   color: var(--font-medium);
 }
 .product-name {
+  overflow-wrap: break-word;
   margin-top: 4px;
   font-size: 14px;
   font-weight: 700;
