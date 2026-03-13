@@ -6,7 +6,7 @@ Frontend del buscador de productos de Amazon con capacidades de búsqueda full-t
 
 ## ¿Qué es?
 
-Aplicación web que permite buscar en tiempo real sobre un índice de más de 850,000 productos de Amazon. El frontend consume una API REST construida con Fastify y MongoDB, mostrando resultados de forma rápida y eficiente.
+Aplicación web que permite buscar en tiempo real sobre un índice de 500,000 productos de Amazon. El frontend consume una API REST construida con Fastify y MongoDB, mostrando resultados de forma rápida y eficiente.
 
 ## Tech Stack
 
